@@ -10,9 +10,9 @@
  */
 public class MainClass {
     //change your mysql database connection here
-    public String StrUrl="jdbc:mysql://localhost:3306/tyre_shop?zeroDateTimeBehavior=convertToNull";
-    public String StrUid="root";
-    public String StrPwd= "kvuc";
+    public String StrUrl="jdbc:mysql://localhost:3306/tyre_shop?zeroDateTimeBehavior=convertToNull"; /*Database Address*/
+    public String StrUid="root"; /*Database username*/
+    public String StrPwd= "kvuc"; /*Database Password*/
     
     public static String StrUser;
 }
